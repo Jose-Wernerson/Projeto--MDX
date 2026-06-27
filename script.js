@@ -39,3 +39,6 @@ const fadeObserver = new IntersectionObserver(
 );
 
 document.querySelectorAll(".fade-in").forEach((el) => fadeObserver.observe(el));
+
+const yearEl = document.getElementById("year");
+if (yearEl) yearEl.textContent = new Date().getFullYear();
