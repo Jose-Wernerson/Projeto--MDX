@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Atualize o domínio "mdxmaquinas.com.br" para o domínio real do site -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <url>
+        <loc>https://mdxmaquinas.com.br/</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://mdxmaquinas.com.br/images/BanerMDX.png</image:loc>
+            <image:title>MDX Automação Industrial</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://mdxmaquinas.com.br/cnc-ar08-3d.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://mdxmaquinas.com.br/images/CNC%20AR%2008-3D.png</image:loc>
+            <image:title>Máquina CNC AR 08-3D</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://mdxmaquinas.com.br/cnc-ar06-d3.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://mdxmaquinas.com.br/images/CNC%20AR%2006-D3.png</image:loc>
+            <image:title>Máquina CNC AR 06-D3</image:title>
+        </image:image>
+    </url>
+
+</urlset>
