@@ -36,4 +36,26 @@
         </image:image>
     </url>
 
+    <url>
+        <loc>https://mdxmaquinas.com.br/cnc-ar10-3d.html</loc>
+        <lastmod>2026-07-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://mdxmaquinas.com.br/images/CNC%20AR%2010-3D.png</image:loc>
+            <image:title>Máquina CNC AR 10-3D</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://mdxmaquinas.com.br/curvadora-ct25.html</loc>
+        <lastmod>2026-07-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://mdxmaquinas.com.br/images/Curvadora%20CT-25.png</image:loc>
+            <image:title>Máquina Curvadora de Tubos CT-25</image:title>
+        </image:image>
+    </url>
+
 </urlset>
