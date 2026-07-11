@@ -20,7 +20,7 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         <image:image>
-            <image:loc>https://mdxmaquinas.com.br/images/CNC%20AR%2008-3D.png</image:loc>
+            <image:loc>https://mdxmaquinas.com.br/images/CNC%20AR%2008-3D.webp</image:loc>
             <image:title>Máquina CNC AR 08-3D</image:title>
         </image:image>
     </url>
@@ -31,7 +31,7 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         <image:image>
-            <image:loc>https://mdxmaquinas.com.br/images/CNC%20AR%2006-D3.png</image:loc>
+            <image:loc>https://mdxmaquinas.com.br/images/CNC%20AR%2006-D3.webp</image:loc>
             <image:title>Máquina CNC AR 06-D3</image:title>
         </image:image>
     </url>
@@ -42,7 +42,7 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         <image:image>
-            <image:loc>https://mdxmaquinas.com.br/images/CNC%20AR%2010-3D.png</image:loc>
+            <image:loc>https://mdxmaquinas.com.br/images/CNC%20AR%2010-3D.webp</image:loc>
             <image:title>Máquina CNC AR 10-3D</image:title>
         </image:image>
     </url>
@@ -53,7 +53,7 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         <image:image>
-            <image:loc>https://mdxmaquinas.com.br/images/Curvadora%20CT-25.png</image:loc>
+            <image:loc>https://mdxmaquinas.com.br/images/Curvadora%20CT-25.webp</image:loc>
             <image:title>Máquina Curvadora de Tubos CT-25</image:title>
         </image:image>
     </url>
