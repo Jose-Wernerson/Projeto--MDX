@@ -53,7 +53,7 @@ header {
     transition: color 0.3s ease;
 }
 
-.redes-sociais-header a:nth-child(3):hover { color: #1877f2; }
+.redes-sociais-header a:nth-child(3):hover { color: #ff0000; }
 .redes-sociais-header a:nth-child(4):hover { color: #e4405f; }
 .redes-sociais-header a:nth-child(5):hover { color: #25d366; }
 
@@ -456,7 +456,7 @@ header {
     margin: 0 6px;
 }
 
-.redes-sociais-footer a:nth-child(1):hover { color: #1877f2; }
+.redes-sociais-footer a:nth-child(1):hover { color: #ff0000; }
 .redes-sociais-footer a:nth-child(2):hover { color: #e4405f; }
 .redes-sociais-footer a:nth-child(3):hover { color: #25d366; }
 
