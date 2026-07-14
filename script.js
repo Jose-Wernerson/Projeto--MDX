@@ -47,8 +47,14 @@ if (yearEl) yearEl.textContent = new Date().getFullYear();
 const COOKIE_CONSENT_KEY = "mdx_cookie_consent";
 
 function loadAnalytics() {
-	// Cole aqui o snippet do Google Analytics 4 / Google Ads (gtag.js)
-	// quando tiver o Measurement ID. Só roda depois do usuário aceitar cookies.
+	window.dataLayer = window.dataLayer || [];
+	function gtag() { dataLayer.push(arguments); }
+	gtag("consent", "update", {
+		ad_storage: "granted",
+		analytics_storage: "granted",
+		ad_user_data: "granted",
+		ad_personalization: "granted",
+	});
 }
 
 function showCookieBanner() {
