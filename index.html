@@ -310,11 +310,10 @@
         <section class="section-form fade-in" id="formulario">
             <h2>Envie uma Mensagem</h2>
             <p>Preencha o formulário e entraremos em contato em até 24 horas.</p>
-            <form action="https://formsubmit.co/mdxmaquinas@gmail.com" method="POST" class="form-contato">
-                <input type="hidden" name="_subject" value="Novo contato via site MDX">
-                <input type="hidden" name="_captcha" value="false">
-                <input type="hidden" name="_template" value="table">
-                <input type="hidden" name="_next" value="https://mdxmaquinas.com.br/obrigado.html">
+            <form action="https://api.web3forms.com/submit" method="POST" class="form-contato">
+                <input type="hidden" name="access_key" value="17dc48a3-a408-45f2-956c-8480c1217cdf">
+                <input type="hidden" name="subject" value="Novo contato via site MDX">
+                <input type="hidden" name="redirect" value="https://mdxmaquinas.com.br/obrigado.html">
                 <div class="form-row">
                     <div class="form-group">
                         <label for="nome">Nome *</label>
