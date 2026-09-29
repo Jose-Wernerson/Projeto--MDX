@@ -1,4 +1,3 @@
-# Atualize o domínio abaixo para o domínio real do site
 User-agent: *
 Allow: /
 

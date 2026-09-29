@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Atualize o domínio "mdxmaquinas.com.br" para o domínio real do site -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
     <url>
         <loc>https://mdxmaquinas.com.br/</loc>
-        <lastmod>2025-01-01</lastmod>
+        <lastmod>2026-09-29</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         <image:image>
@@ -16,7 +15,7 @@
 
     <url>
         <loc>https://mdxmaquinas.com.br/cnc-ar08-3d.html</loc>
-        <lastmod>2025-01-01</lastmod>
+        <lastmod>2026-09-29</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         <image:image>
@@ -27,7 +26,7 @@
 
     <url>
         <loc>https://mdxmaquinas.com.br/cnc-ar06-d3.html</loc>
-        <lastmod>2025-01-01</lastmod>
+        <lastmod>2026-09-29</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         <image:image>
@@ -38,7 +37,7 @@
 
     <url>
         <loc>https://mdxmaquinas.com.br/cnc-ar10-3d.html</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-09-29</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         <image:image>
@@ -49,7 +48,7 @@
 
     <url>
         <loc>https://mdxmaquinas.com.br/curvadora-ct25.html</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-09-29</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         <image:image>
