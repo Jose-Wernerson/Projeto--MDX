@@ -32,11 +32,14 @@ header {
     display: flex;
     align-items: center;
     gap: 6px;
-    padding: 0 1rem;
-    margin-bottom: 4px;
+    padding: 0 max(1rem, calc((100% - 1200px) / 2));
+    margin-bottom: 6px;
 }
 
-.redes-sociais-header > :first-child,
+.redes-sociais-header > :first-child {
+    margin-right: 2px;
+}
+
 .redes-sociais-header span {
     margin-right: auto;
 }
@@ -62,7 +65,7 @@ header {
     align-items: center;
     gap: 2rem;
     background: #fff;
-    padding: 0.5rem 2rem;
+    padding: 0.75rem max(2rem, calc((100% - 1200px) / 2 + 1rem));
     margin: 0 -1rem;
 }
 
@@ -76,6 +79,15 @@ header {
     display: flex;
     align-items: center;
     gap: 0.75rem;
+}
+
+.logo-header .informativo-header {
+    margin-left: auto;
+}
+
+.logo-header .contato-header {
+    padding-left: 2rem;
+    border-left: 1px solid #dde4ee;
 }
 
 .horarios-header,
@@ -110,7 +122,7 @@ header {
 .menu-header {
     display: flex;
     align-items: center;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem max(1rem, calc((100% - 1200px) / 2));
 }
 
 .menu-header ul {
